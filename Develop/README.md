@@ -1,4 +1,4 @@
-# Readme File
+# Readme file
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of contents
   * [Description](#description)
@@ -8,11 +8,11 @@
   * [Tests](#tests)
   * [License](#license)
   ## Description
-  Created a readme file where you can describe the work , its usage, tests used in projects, and so on. it helps to arrange the show the work
+  Created a readme file which helpd to deascribe the project its usage, tests used in and so on.
   ## Installation
   inquirer@8.2.4
   ## Usage
-  It helps to arrange the work so that when user look on it they have an idea what is used in project and how it works
+  It creates a guidelines that how project has been creted . so that anyone who is working on project knows hows it build up.
   ## Contribution
   N/A
   ## Tests
