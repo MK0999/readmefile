@@ -6,13 +6,16 @@ Created a readmefile with the help of inquirer where user will be prompt with qu
 ## Usage
 It helps to generate a professional readme file which anyone can use to give a description of product, its usage and licences used in it.
 ## Walkthrough video
-## Tests
+## Installation
 - Inquirer
   ## Credit
   -Ask Bcs app
   - Carleton Study material
   - Tutor- Philip Loy
     ## Screenshot
+    - https://github.com/MK0999/readmefile/blob/main/Screenshot%20(39).png
+    - https://github.com/MK0999/readmefile/blob/main/Screenshot%20(40).png
+    
 
     ## Links
     - Repository link-https://github.com/MK0999/readmefile
